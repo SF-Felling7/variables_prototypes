@@ -1,9 +1,10 @@
-# variables_prototypes
-
-#Variables and Prototypes
 
 
-##Variables
+Variables and Prototypes
+====
+
+Variables
+------
 
 **What is it?**
 
@@ -31,7 +32,8 @@ Variables gives you flexibility and allows you to repeat code less frequently. V
 *PS: Scope is a thing. You can use variables globally and locally.*
 
 
-##Prototypes
+Prototypes
+------
 
 **What is it?**
 
